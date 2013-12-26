@@ -1,0 +1,18 @@
+{
+    "name": "toomanydavesAPI",
+    "description": "An API for accessing and persisting data in the toomanydaves namespace",
+    "version": "0.1.0",
+    "url": "http://toomanydaves.github.io/web-api",
+    "author": "Sean Jacke",
+    "email": "seanineurope@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toomanydaves/web-api.git"
+    },
+	"bugs": "http://github.com/toomanydaves/web-api/issues",
+	"license": "MIT",
+    "dependencies": {
+        "express": "3.4.x",
+        "mongoose": "3.8.x"
+    }
+}
